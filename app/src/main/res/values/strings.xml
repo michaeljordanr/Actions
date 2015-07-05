@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Actions</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mnu_cam">Câmera</string>
+    <string name="mnu_agenda">Agenda</string>
+    <string name="mnu_call">Ligar</string>
+    <string name="mnu_rotate">Girar</string>
+</resources>
